@@ -1,0 +1,84 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* Default Bootstrap Typographical Hierarchy Overwrite*/
+h1 {
+  padding-top: 60px;
+  padding-bottom: 20px;
+  }
+
+h3 {
+  padding-top: 20px;
+}
+
+/* button */
+.btn-new {
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 10px 40px;
+  border-radius: 30px;
+  border-color: #202b85;
+  background-color: #202b85;
+  color: #ffffff;
+}
+
+.btn-new:hover {
+  border-color: #5aded1;
+  background-color: #5aded1;
+  color: #262a4f;
+}
+
+/* Table Attributes*/
+
+.table-container {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgb(245, 245, 245);
+}
+
+.table-bg {
+  background-color: rgb(245, 245, 245);
+}
+
+.bg-dark {
+  background-color: #262a4f !important;
+}
+
+.c-container {
+  padding: 5%;
+}
+
+.caption-edit {
+  background-color: rgb(100, 100, 100, 0.5);
+  color: white;
+}
+
+.text-container {
+  max-width: 720px;
+  margin-bottom: 50px;
+}
+
+.footer {
+  background-color: #262a4f;
+  height: auto;
+  color: #8e8e8e;
+  font-size: 0.6 rem;
+  text-align: center;
+  padding: 20px;
+}
+
+.lowerpadding-100 {
+  height: 100px;
+}
+
+.lowerpadding-40 {
+  height: 40px;
+}
+
+.lowerpadding-20 {
+  height: 20px;
+}
+
+.lowerpadding-10 {
+  height: 10px;
+}
